@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "nue",
+  "version": "0.0.1",
+  "description": "Slips through ■■■■■■■s",
+  "icons": {
+    "128": "img/128_period.png",
+    "48": "img/48_period.png",
+    "16": "img/16_period.png"
+  },
+  "background": {
+    "page": "background.html"
+  },
+  "browser_action": {
+    "default_icon": {
+      "38": "img/38_question.png",
+      "19": "img/19_question.png"
+    },
+    "default_title": "nue"
+  },
+  "content_security_policy": "default-src 'self'",
+  "homepage_url": "https://github.com/mt-caret/nue",
+  "permissions": [
+    "http://*/*",
+    "https://*/*",
+    "storage",
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}

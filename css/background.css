@@ -1,0 +1,90 @@
+td {
+  white-space: nowrap;
+  border: 1px solid #CCC;
+  text-align: center;
+  vertical-align: middle;
+}
+td > input {
+  width: 100%;
+  margin: -1px;
+}
+a#import_anchor, a#export_anchor {
+  padding: 5px;
+}
+input#import_input {
+  display: none;
+}
+/*body {
+	width: 200px;
+	margin: 0px;
+}
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+li {
+	display: block;
+}
+
+#search_form {
+	height: 30px;
+	border-bottom: 1px solid rgba(0, 0, 0, .2);
+}
+#search_text, #search_button {
+	height: 100%;
+	margin: -1px;
+	border: 0px;
+}
+#search_text { width: 65%; padding: 0% 5%;
+}
+#search_button {
+	-webkit-appearance: button;
+	width: 25%;
+}
+.search_engine_label {
+	float: left;
+	position: relative;
+	width: 50px;
+	height: 50px;
+}
+
+input[type=radio] {
+	display: none;
+}
+.search_engine_icon {
+	max-height: 100%;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	position: absolute;  
+	top: 0;  
+	bottom: 0;  
+	left: 0;  
+	right: 0;  
+	margin: auto;
+}
+input[type=radio] + img {
+	background-color: #888;	
+}
+input[type=radio]:checked + img {
+	background-color: #444;
+}
+
+input[type=checkbox] {
+	display: none;
+}
+.settings_text {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 5px 0px;
+	-webkit-user-select: none;
+	border-top: 1px solid rgba(0, 0, 0, .2);
+}
+input[type=checkbox] + span {
+	background-color: #eee;
+}
+input[type=checkbox]:checked + span {
+	background-color: #ccc;
+}*/
