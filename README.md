@@ -4,7 +4,7 @@ Slips through ■■■■■■■s.
 
 ## Warning
 
-Stil in development.
+Still in development.
 
 ## TODO
 
